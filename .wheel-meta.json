@@ -1,0 +1,22 @@
+{
+  "wheel_id": 415,
+  "structure": "umbrella",
+  "slug": "webdesigninadelaide-102",
+  "project": "web-design-adelaide-red-flags-0e63f62860cf084ecb3cd344c69b82f1f",
+  "parent_t1_ref": "webdesigninadelaide-150",
+  "node_role": "feeder",
+  "money_target": "webdesigninadelaide.com.au",
+  "primary_kw": "web design adelaide red flags",
+  "intended_url": "https://aumedia.neocities.org/web-design-adelaide-red-flags-0e63f62860cf084ecb3cd344c69b82f1f/",
+  "tier": "T2",
+  "writeback_nonce": "8e1eb6ace2cdcf6e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/webdesigninadelaide-150/",
+      "anchor": "https://sitesau.github.io/webdesigninadelaide-150/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
